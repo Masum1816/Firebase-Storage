@@ -1,0 +1,148 @@
+.background{
+    height: 64px;
+    padding: 8px;
+    background-color: black;
+    border-bottom: 1px solid rgb(32, 32, 32);
+}
+.font-app{
+    font-family: fantasy;
+}
+.section1{
+    width: 280px;
+    height: 1000px;
+    background-color: black;
+    border-right: 1px solid rgb(32, 32, 32);
+}
+.section2{
+    width: calc(100% - 280px);
+    height: 1000px;
+    background-color: black;
+}
+.addData{
+    width: 170px;
+    height: 56px;
+    padding-top: 18px;
+    padding-bottom: 1px;
+    padding-left: 16px;
+    padding-right: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+.font-app-contact{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.font-app-contact svg{
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+}
+.section-1{
+    width: 268px;
+}
+.menu-toggle{
+    padding: 12px;
+    color: #fff;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.menu-toggle svg{
+    width: 24px;
+    height: 24px;
+}
+.section-2{
+    width: 136px;
+}
+.section-2 img{
+    width: 44px;
+    height: 40px;
+    color: #fff;
+    margin-top: 3px;
+    margin-bottom: 4px;
+    padding-right: 4px;
+}
+.contacts{
+    font-size: 22px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 0.2px;
+    line-height: 24px;
+    vertical-align: middle;
+    padding-left: 4px;
+}
+.section-3{
+    width: 1088px;
+    justify-content: flex-start;
+}
+.search{
+    width: 992px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.search-button{
+    width: 56px;
+    height: 46px;
+    color: #fff;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.search-button svg{
+    width: 40px;
+    height: 40px;
+    margin: 3px;
+    padding: 8px;
+}
+.search-button svg path{
+    width: 17px;
+    height: 17px;
+}
+.input-type{
+    width: 859px;
+}
+.input-width{
+    width: 735px;
+    height: 46px;
+    background-color: black;
+    color: #fff;
+    border: 0;
+}
+.toggle-icon{
+    width: 96px;
+}
+.icon-1{
+    margin-left: 4px;
+    margin-right: 4px;
+    padding: 8px;
+    color: #fff;
+}
+.icon-1 svg{
+    width: 24px;
+    height: 24px;
+}
+.addData-view{
+    width: 230px;
+    height: 44px;
+    cursor: pointer;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 50px;
+}
+.user{
+    width: 34px;
+    height: 34px;
+    color: #fff;
+    padding-top: 8px;
+}
+.user svg{
+    width: 24px;
+    height: 24px;
+}
+.font-app-contact-view{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 13px;
+    padding-left: 10px;
+}
+.font-app-contact-view-manage{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
